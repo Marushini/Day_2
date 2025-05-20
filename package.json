@@ -9,16 +9,11 @@
     "type": "git",
     "url": "git+https://github.com/Marushini/Day_2.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Marushini/Day_2/issues"
   },
   "homepage": "https://github.com/Marushini/Day_2#readme",
-  "dependencies": {
-    "express": "^4.16.0"
-  },
-  "devDependencies": {},
   "description": ""
 }
