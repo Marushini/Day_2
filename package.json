@@ -16,8 +16,9 @@
     "url": "https://github.com/Marushini/Day_2/issues"
   },
   "homepage": "https://github.com/Marushini/Day_2#readme",
-  "description": "",
   "dependencies": {
     "express": "^4.16.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
